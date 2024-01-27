@@ -6,7 +6,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Kyiv
 * ✉️  You can contact me at [alexandr.kirpichyov@gmail.com](mailto:alexandr.kirpichyov@gmail.com)
-* 🧠  I'm learning JS along with ReactJS
 * 🤝  I'm open to collaborating on an interesting or helpful project
 * ⚡  I like to mentor and share my experience with other
 
@@ -29,6 +28,6 @@ src="https://img.shields.io/github/followers/kirpichyov?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kirpichyov"><img src="https://github-readme-stats.vercel.app/api?username=kirpichyov&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kirpichyov's GitHub stats" /></a>
+<a href="http://www.github.com/kirpichyov"><img src="https://github-readme-stats.vercel.app/api?username=kirpichyov&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&ghv=1" alt="kirpichyov's GitHub stats" /></a>
 
-<a href="http://www.github.com/kirpichyov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kirpichyov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/kirpichyov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kirpichyov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&ghv=1" /></a>
